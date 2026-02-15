@@ -1,0 +1,3 @@
+# classifier backend
+ImageNetで訓練されたVision Transformerによる画像分類サンプル
+バックエンド
